@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721769398864",
+    "project_id": "ixend-d6534",
+    "storage_bucket": "ixend-d6534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721769398864:android:21320a2cbb196fe93ac755",
+        "android_client_info": {
+          "package_name": "com.example.ixend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvScShh-QYnRIkZ1pxnS51ARyyC1XGrwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
